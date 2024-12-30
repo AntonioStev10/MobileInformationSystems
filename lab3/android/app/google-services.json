@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "81712611311",
+    "project_id": "mis-antonio-lab3",
+    "storage_bucket": "mis-antonio-lab3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81712611311:android:bb9f8f4319b7c8f72ac01a",
+        "android_client_info": {
+          "package_name": "com.example.lab2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMnaby3ucEw6KIsd1pdJg-ZqNqGqcEEgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
